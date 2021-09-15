@@ -1,0 +1,6 @@
+program
+	def main ( int a int b )
+		int c
+		print (a + b + c)
+	enddef
+endprogram

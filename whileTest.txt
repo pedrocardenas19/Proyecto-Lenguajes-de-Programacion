@@ -1,0 +1,9 @@
+program
+	def main ( int a int b )
+        while ( j != i )
+                acum = acum + j * ( i + 1 )
+                j = j + 1
+        endcycle
+        print acum
+    enddef
+endprogram
